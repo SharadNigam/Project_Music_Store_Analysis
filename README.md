@@ -4,7 +4,11 @@ This project was focused on analyzing the music store dataset with SQL(Postgres)
 
 <h3> DATABASE AND TOOLS </h3>
 * Postgre SQL
+
+
 * PgAdmin
+
+
 * Music store data ( _folder contains both xml and sql files_ )
 
 
