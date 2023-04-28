@@ -55,3 +55,6 @@ Q6: Find how much amount spent by each customer on artists? Write a query to ret
 ![Screenshot (26)](https://user-images.githubusercontent.com/131772248/235194771-ffdb18d0-c0a8-4411-8b82-237aa0d42b02.png)
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/131772248/235194775-41c7506b-ef67-448f-b31c-f4ba5f23d901.png)
+
+<img width="594" alt="schema_diagram" src="https://user-images.githubusercontent.com/131772248/235195697-fb0c2961-71ec-4e23-99f7-c423df81586e.png">
+
