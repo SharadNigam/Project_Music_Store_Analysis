@@ -34,9 +34,9 @@ Q6: Find how much amount spent by each customer on artists? Write a query to ret
 
 
 <h3> METHODOLOGY </h3>
+(_Data cleaning was done beforehand via excel_)
 
-
-* Pulled the dataset from 'Music_Store_database.sql' into Postgres to begin analysis.
+* Pulled the dataset from 'Music_Store_database.sql' into Postgres to begin analysis. (_This is the cleaned dataset_)
 * This was done by first creating a new database and then restoring the Music_Store_database.sql from there.
 * Post that, analysis was done using different SQL queries, all of which are present in my 'Queries.sql' file
 
